@@ -104,7 +104,7 @@
       "name": "Fishing Net",
       "level": 2,
       "rarity": "UnCommon",
-      "type": "Wood",
+      "type": "Food",
       "durability": 1000,
       "imageurl": "https://mypinata.cloud/ipfs/QmPRWao5gLUmTktJZHdEg7A4dLYA9TzBjSGDvLNk3aCeh4"
     },
@@ -113,7 +113,7 @@
       "name": "Fishing Net",
       "level": 2,
       "rarity": "UnCommon",
-      "type": "Wood",
+      "type": "Food",
       "durability": 1000,
       "imageurl": "https://mypinata.cloud/ipfs/QmPRWao5gLUmTktJZHdEg7A4dLYA9TzBjSGDvLNk3aCeh4"
     },
@@ -122,7 +122,7 @@
       "name": "Fishing Boat",
       "level": 3,
       "rarity": "Rare",
-      "type": "Wood",
+      "type": "Food",
       "durability": 1600,
       "imageurl": "https://mypinata.cloud/ipfs/QmSWBPJ5edSngtFAZMBw26EjexWMMYTHcHghWfSp9aWMdq"
     },
