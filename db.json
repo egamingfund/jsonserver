@@ -1,6 +1,15 @@
 {
   "tools": [
     { 
+      "id":0,
+      "name": "Axe",
+      "level": 1,
+      "rarity": "Common",
+      "type": "Wood",
+      "durability": 250,
+      "imageurl": "https://mypinata.cloud/ipfs/QmUCg2d1Ww2734tiCwEPA5s3WL1Pr9jMTNsoPx3A9vKsJe"
+    },
+    { 
       "id":1,
       "name": "Axe",
       "level": 1,
