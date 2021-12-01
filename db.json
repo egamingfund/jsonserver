@@ -3,7 +3,7 @@
     { 
       "id":0,
       "name": "Axe",
-      "image": "https://mypinata.cloud/ipfs/QmUCg2d1Ww2734tiCwEPA5s3WL1Pr9jMTNsoPx3A9vKsJe",
+      "image": "http://212.129.142.80/slg/img/role.png",
       "description": "Axe",
       "attributes":[
         {
@@ -27,7 +27,7 @@
       "id":1,
       "name": "Axe",
       "description": "Axe",
-      "image": "https://mypinata.cloud/ipfs/QmUCg2d1Ww2734tiCwEPA5s3WL1Pr9jMTNsoPx3A9vKsJe",
+      "image": "http://212.129.142.80/slg/img/role.png",
       "attributes":[
         {
           "display_type": "number", 
